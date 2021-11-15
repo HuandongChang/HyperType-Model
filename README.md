@@ -1,6 +1,6 @@
 # The HyperType Model For Triangles in Networks
 ## Project introduction
-In this project, we introduced the HyperType model that incorporate triangles, which is an extension of the Random Typing model designed by **Akoglu and Faloutsos** [[1]](#1). The codes here are the python implementations of the HyperType model. The paper, *THE HYPERTYPE MODEL FOR CLUSTERING IN NETWORKS*, is attached and is currently under review.
+In this project, we introduced the HyperType model that incorporate triangles, which is an extension of the Random Typing model designed by **Akoglu and Faloutsos** [[1]](#1). The codes here are the python implementations of the HyperType model. The paper, *THE HYPERTYPE MODEL FOR CLUSTERING IN NETWORKS*, is attached and has been accepted by SIURO-SIAM on Nov/2021.
 
 Authors: Huandong Chang & Chuming Chen
 
